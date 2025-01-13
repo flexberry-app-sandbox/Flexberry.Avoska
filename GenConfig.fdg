@@ -50,9 +50,9 @@
         "ConnectionString": null
       },
       "PostgreSql": {
-        "DiffSql": true,
+        "DiffSql": false,
         "FullSql": true,
-        "LiquibaseSql": false,
+        "LiquibaseSql": true,
         "Security": false,
         "AdminUser": false,
         "ConnectionString": null
